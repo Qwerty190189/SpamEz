@@ -25,4 +25,5 @@ $ python2 spam.py
 
 ## Informasi Script
 + Unlimited
-+ Update 1.3
++ Update Fix 1.4
++ Spamer 2021
